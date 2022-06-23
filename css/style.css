@@ -1,0 +1,30 @@
+body{
+    font-family: sans-serif;
+}
+
+
+.top_header{
+    height: 50px;
+    background-color: black;
+}
+
+
+.box{
+    background-color: green;
+    border: solid 2px yellow;
+}
+
+.box-trasparent{
+    border: solid 2px yellow;
+}
+
+.cian{
+    height: 400px;
+    background-color: aquamarine;
+}
+
+.big{
+    height: 600px;
+    background-color: lightslategray;
+}
+
